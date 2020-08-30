@@ -10,9 +10,12 @@ The main technologies showcased in this application are MySQL, Node, Express, Ha
 * Clone this repo to your machine
 * In your terminal, run 'npm install' to install dependencies
 * Enter your MySQL root password in the connection.js file
-* In your terminal, run 'node server.js' to begin application
+* In your terminal, run 'node server.js' to begin application  n
+
 _**OR**_
-* Follow this link for deployed Heroku app
+
+
+* [Follow this link for deployed Heroku app](https://quiet-peak-14705.herokuapp.com/)
 
 ## Contact Info
 * My Github Repo: [egibbs834](https://github.com/egibbs834?tab=repositories)
